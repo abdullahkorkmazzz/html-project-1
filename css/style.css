@@ -1,0 +1,46 @@
+/************************** font-family ******************************/
+
+.sans-serif {
+    font-family: sans-serif;
+}
+
+
+/************************** colors ******************************/
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+
+
+
+.darkblue {
+    color: darkblue;
+}
+
+.darkgreen {
+    color:darkgreen;
+}
+
+.brown {
+    color: brown;
+}
+
+.crimson {
+    color: crimson;
+}
+
+.orange {
+    color: orange;
+}
+
+.orangered {
+    color: orangered;
+}
