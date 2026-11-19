@@ -1,8 +1,5 @@
 # HTML Ödev 1
 
-Patika Frontend eğitimi kapsamında hazırlanan ilk HTML ödevim.
+HTML ve CSS kullanılarak hazırlanmış kişisel tanıtım ve favori dizi/film listesi sayfası.
 
-🔗 **Canlı Demo:** [Proje Linki](https://abdullahkorkmazzz.github.io/html-project-1/)
-
-## Kullanılan Teknolojiler
-- HTML5
+**Canlı Demo:** [Proje Linki](https://abdullahkorkmazzz.github.io/html-project-1/)
