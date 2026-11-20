@@ -1,5 +1,5 @@
-# HTML Ödev 1
+# Personal Profile & Watchlist Showcase
 
-HTML ve CSS kullanılarak hazırlanmış kişisel tanıtım ve favori dizi/film listesi sayfası.
+A personal introduction and favorite series/movies showcase page built with HTML and CSS.
 
-**Canlı Demo:** [Proje Linki](https://abdullahkorkmazzz.github.io/html-project-1/)
+- **Live Demo:** [View Live Project](https://abdullahkorkmazzz.github.io/personal-watchlist-page/)
